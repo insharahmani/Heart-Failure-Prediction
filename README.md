@@ -43,6 +43,6 @@
 ---
 
 ## 💡 Conclusion
-** can be applied to healthcare analytics for predicting **heart failure risk**. The Decision Tree model provided the best balance of accuracy and interpretability, offering valuable insights for clinical decision-making.
+** This project demonstrates how **machine learning** can be applied to healthcare analytics for predicting **heart failure risk**. The Decision Tree model provided the best balance of accuracy and interpretability, offering valuable insights for clinical decision-making.
 
 
